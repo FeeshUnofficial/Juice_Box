@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ggg",
+        "gGg"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:jungle_log"
+        },
+        "g": {
+            "item": "minecraft:emerald_block"
+        },
+        "G": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "minecraft:dead_bubble_coral_block",
+        "count": 1
+    },
+    "group": "Juice box"
+}

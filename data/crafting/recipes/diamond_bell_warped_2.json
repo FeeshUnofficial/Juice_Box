@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ggg",
+        "gGg"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stripped_warped_stem"
+        },
+        "g": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "minecraft:lapis_lazuli"
+        }
+    },
+    "result": {
+        "item": "minecraft:dead_tube_coral_block",
+        "count": 1
+    },
+    "group": "Juice box"
+}

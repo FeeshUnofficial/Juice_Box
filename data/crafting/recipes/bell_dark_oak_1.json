@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ggg",
+        "gGg"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dark_oak_log"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:bell",
+        "count": 1
+    },
+    "group": "Juice box"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "csc",
+    " c "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:coal"
+    },
+    "s": {
+      "item": "minecraft:cracked_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "minecraft:polished_blackstone_bricks",
+    "count": 1
+  },
+  "group": "Juice box"
+}
