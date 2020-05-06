@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 9,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 9
+        },
+        {
+          "type": "item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "conditions": [
+            {
+              "condition": "minecraft:killed_by_player",
+              "chance": 0.1,
+              "looting_multiplier": 3.33
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
