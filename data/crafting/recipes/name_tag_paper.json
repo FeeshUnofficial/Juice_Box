@@ -9,8 +9,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:name_tag",
-        "count": 1
+        "item": "minecraft:name_tag"
     },
     "group": "Juice box"
 }

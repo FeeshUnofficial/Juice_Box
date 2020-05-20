@@ -1,16 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "s ",
-    "ss"
+    "sss",
+    "sss",
+    "sss"
   ],
   "key": {
     "s": {
-      "item": "minecraft:stone_stairs"
+      "item": "minecraft:wheat_seeds"
     }
   },
   "result": {
-    "item": "minecraft:stone_brick_stairs"
+    "item": "minecraft:green_dye"
   },
   "group": "Juice box"
 }
